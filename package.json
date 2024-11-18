@@ -27,7 +27,7 @@
 
     "repository":  {
         "type": "git",
-        "url": "https://github.com/RazgriZ77/servicelocator.git"
+        "url": "https://github.com/RazgriZ77/Unity-ServiceLocator.git"
     },
 
     "license": "ISC"
