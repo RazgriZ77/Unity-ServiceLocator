@@ -1,6 +1,6 @@
 {
     "name": "com.harryb97.serviceprovider",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Service Provider",
     "description": "Integración simple de un sistema que provee servicios",
     "unity": "6000.0",
