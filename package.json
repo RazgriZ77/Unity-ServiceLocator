@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "Service Provider",
     "description": "Integración simple de un sistema que provee servicios",
-    "unity": "6",
+    "unity": "6000.0",
 
     "keywords": [
         "design",
