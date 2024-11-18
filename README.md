@@ -2,7 +2,7 @@
 Integración simple de un sistema que provee servicios en Unity.
 
 ## ¿Qué es exactamente?
-Service Locator es un patrón de diseño que sirve para desacoplar la lógia de las entidades In-Game, de la obtención de métodos por medio de servicios en forma de interfaces.
+Service Locator es un patrón de diseño que sirve para desacoplar la lógica de las entidades In-Game, de la obtención de métodos por medio de servicios en forma de interfaces.
 Es una alternativa a otros patrones similares como la **Inyección de Dependencias**
 
 Se usa a partir de un objeto centralizado, llamado "ServiceProvider", el cual crea y reparte instancias de servicios (Managers), las cuales poseen los servicios en forma de interfaces.
