@@ -1,5 +1,5 @@
-# Service Locator
-Integración simple de un sistema que provee servicios.
+# Unity Service Locator
+Integración simple de un sistema que provee servicios en Unity.
 
 ## ¿Qué es exactamente?
 Service Locator es un patrón de diseño que sirve para desacoplar la lógia de las entidades In-Game, de la obtención de métodos por medio de servicios en forma de interfaces.
@@ -14,7 +14,7 @@ De esta forma, una entidad dentro de la partida puede adquirir un servicio usand
 # Instalación
 1. Ve a **Unity**, en la pestaña de **"Window/Package Manager"**
 2. Dale al símbolo de **"+"** y a la opción de *"Install package from git URL..."*
-3. Pega el link de este repositorio [``https://github.com/RazgriZ77/servicelocator.git``]
+3. Pega el link de este repositorio [``https://github.com/RazgriZ77/Unity-ServiceLocator.git``]
 4. Pulsa en **"Install"**
 
 ## Sample
