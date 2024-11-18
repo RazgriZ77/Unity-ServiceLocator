@@ -1,0 +1,34 @@
+{
+    "name": "com.harryb97.serviceprovider",
+    "version": "1.0.0",
+    "displayName": "Service Provider",
+    "description": "Integración simple de un sistema que provee servicios",
+    "unity": "6",
+
+    "keywords": [
+        "design",
+        "pattern"
+    ],
+    
+    "author": {
+      "name": "HarryB97",
+      "email": "enriquebotella97@gmail.com"
+    },
+
+    "samples": [
+        {
+          "displayName": "Sample",
+          "description": "Guía para inicializar ServiceLocator y uso de Scopes",
+          "path": "Sample"
+        }
+    ],
+
+    "hideInEditor": true,
+
+    "repository":  {
+        "type": "git",
+        "url": "https://github.com/RazgriZ77/servicelocator.git"
+    },
+
+    "license": "ISC"
+  }
