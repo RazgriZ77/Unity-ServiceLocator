@@ -1,0 +1,16 @@
+{
+    "name": "HarryB97.Tools.ServiceLocator.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a86bcf2cd2b9a274693f2da93f66b8fd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
